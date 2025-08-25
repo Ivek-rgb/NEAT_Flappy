@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 2437652ec1092cd45ae5c62f222614cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7173260530473143835
+    second: flappy_player_0
+  - first:
+      213: -8434676494986656039
+    second: flappy_player_1
+  - first:
+      213: -2287401703044263591
+    second: flappy_player_2
+  - first:
+      213: -3404965814493649669
+    second: flappy_player_3
+  - first:
+      213: -472171190914516153
+    second: flappy_player_4
+  - first:
+      213: -5147334362716893221
+    second: flappy_player_5
+  - first:
+      213: 994003142653637588
+    second: flappy_player_6
+  - first:
+      213: 353649938714550747
+    second: flappy_player_7
+  - first:
+      213: 1916762999103696114
+    second: flappy_player_8
+  - first:
+      213: -6630310298102976660
+    second: flappy_player_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappy_player_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 186
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e171d79d85737c90800000000000000
+      internalID: -7173260530473143835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 280
+        width: 93
+        height: 61
+      alignment: 9
+      pivot: {x: 0.8951557, y: 0.7586435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6cbf8aa6202fa80800000000000000
+      internalID: -8434676494986656039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 94
+        height: 61
+      alignment: 9
+      pivot: {x: 0.8837505, y: 0.21851611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9515c6f25448140e0800000000000000
+      internalID: -2287401703044263591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 168
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e1cac1a12fb0d0800000000000000
+      internalID: -3404965814493649669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 187
+        width: 82
+        height: 79
+      alignment: 9
+      pivot: {x: 0.81911224, y: 0.9189086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bfd54bdc28279f0800000000000000
+      internalID: -472171190914516153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 94
+        height: 42
+      alignment: 9
+      pivot: {x: 0.88221544, y: 0.22516178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf091a3baef098b0800000000000000
+      internalID: -5147334362716893221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 114
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.82425857, y: 0.90374756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3fd7f77986bcd00800000000000000
+      internalID: 994003142653637588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 43
+        width: 94
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8756123, y: 0.20124371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16bebdeba68e400800000000000000
+      internalID: 353649938714550747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 46
+        width: 82
+        height: 43
+      alignment: 9
+      pivot: {x: 0.82362735, y: 0.91073483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc2030dac5b99a10800000000000000
+      internalID: 1916762999103696114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy_player_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 95
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8516461, y: 0.8778729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f25faa9e76cf3a0800000000000000
+      internalID: -6630310298102976660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 647fe5bc0662f8e4fa96fcd89b6e244e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flappy_player_0: -7173260530473143835
+      flappy_player_1: -8434676494986656039
+      flappy_player_10: 2128869522
+      flappy_player_2: -2287401703044263591
+      flappy_player_3: -3404965814493649669
+      flappy_player_4: -472171190914516153
+      flappy_player_5: -5147334362716893221
+      flappy_player_6: 994003142653637588
+      flappy_player_7: 353649938714550747
+      flappy_player_8: 1916762999103696114
+      flappy_player_9: -6630310298102976660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
